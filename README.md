@@ -4,8 +4,8 @@ TS/JS Developer curious about functional programming, Haskell, Linux and Rust.
 
 ## 📦 Side projects
 
+* [🐈 Boo](https://github.com/egxn/boo) - 🐧 API to use text to speech (using coqui) and speech to text (usingwhisper) [🐍.py, 🟦.ts]
 * [🐗 Boar](https://github.com/egxn/boar) - 🐧 Touchbar for linux using your mobile [🦀.rs, 🟦.ts]
-* [🦥 Sloth](https://github.com/egxn/sloth-clipboard) - 🐧 Clipboard manager [🦀.rs]
 * [🦎 Lizard](https://github.com/egxn/lizard) - 🐧 Reminder to take eye breaks [🦀.rs]
 * [🐙 Octopus](https://github.com/egxn/octopus-chalkboard) - 🐧 Chalkboard to draw over your apss [🦀.rs]
 * [🐾 Paws](https://github.com/egxn/paws-tool) -👩‍💻 Generate images assets from emojis [🦀.rs]
