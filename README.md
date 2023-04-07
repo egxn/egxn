@@ -16,5 +16,5 @@ TS/JS Developer curious about functional programming, Haskell, Linux and Rust.
 
 ## Contact
 
-* [📧 Email](mailto:afvelosas@correo.udistrital.edu.co)
+* [📧 Email](mailto:afvelosas@gmail.com)
 * [🐦 Twitter](https://twitter.com/egoncore)
